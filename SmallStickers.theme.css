@@ -1,0 +1,13 @@
+/**
+ * @name Small Stickers
+ * @author Exetric#7625
+ * @version 1.0.0
+ * @description Shrinks the stickers to be half their normal size so make chat less messy.
+ * @source https://github.com/Exetric/Small-Stickers-Theme
+*/
+
+.assetWrapper-2hzITV {
+    max-width: 80px;
+    max-height: 80px;
+    filter: blur(0.5px);
+}
